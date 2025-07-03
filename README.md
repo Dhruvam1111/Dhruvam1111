@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Dhruvam Panchal a MERN stack developer and an AI/ML enthusiast.
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c2900cbf734aed2a59715460b4caa47a4535ea17098184c2a18294e814674d36/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com./in/dhruvam-panchal-41b1b7321 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panchaldhruvam19@gmail.com) 
